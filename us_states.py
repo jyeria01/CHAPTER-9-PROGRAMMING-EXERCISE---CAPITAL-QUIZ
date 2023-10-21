@@ -1,4 +1,4 @@
- us_states = {
+us_states = {
                 'Alabama': 'Montgomery',
     'Alaska': 'Juneau',
     'Arizona': 'Phoenix',
